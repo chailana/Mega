@@ -4,4 +4,4 @@ pyrogram
 tgcrypto
 mega.py
 python-dotenv
-tenacity  # Ensure this version or later is used
+tenacity>=8.0.1  # Ensure this version or later  # Ensure this version or later is used
